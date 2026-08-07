@@ -140,3 +140,16 @@ Model checkpoint download instructions are provided in [`MODEL_CHECKPOINTS.md`](
 ## Demo Explanation
 
 A step-by-step explanation of the demo figures is provided in [`DEMO_DESCRIPTION.md`](DEMO_DESCRIPTION.md).
+
+## Citation
+
+If you use this source code in your research, please cite the following paper:
+
+```bibtex
+@inproceedings{khan2026FedVKGQA,
+    author = {Md Saikat Islam Khan Bappy and Oshani Seneviratne},
+    title = {{FedV-KGQA: Multi-Hop Question Answering over Vertically Partitioned Knowledge Graphs}},
+    year = {2026},
+    booktitle = {Proceedings of the International Semantic Web Conference (ISWC)},
+}
+```
